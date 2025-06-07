@@ -2,7 +2,7 @@ module.exports.config = {
     name: "love7",
     version: "2.0.0",
     permssion: 2,
-    credits: "Mohammad Nayan",
+    credits: "MD Salman",
     description: "",
     prefix: true,
     category: "Love",
