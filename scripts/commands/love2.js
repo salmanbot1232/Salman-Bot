@@ -7,7 +7,7 @@ module.exports.config = {
   credits: "Nayan",
   description: "talk with bot",
   category: "user",
-  usages: "",
+  usages: "Bot",
   cooldowns: 5,
 };
 module.exports.handleEvent = async function({ api, event, args, Threads, Users }) {
