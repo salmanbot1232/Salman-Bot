@@ -2,7 +2,7 @@ module.exports.config = {
   name: "goiadmin",
     version: "1.0.0",
     permission: 0,
-    credits: "Salman",
+    credits: "nayan",
     description: "mention",
     prefix: true,
     category: "user",
