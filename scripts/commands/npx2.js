@@ -9,7 +9,7 @@ module.exports = {
 		credits: "nayan",
 		description: "Fun",
 		category: "no prefix",
-		usages: "😒",
+		usages: "🥰",
 		cooldowns: 5,
 	},
 
@@ -46,7 +46,7 @@ module.exports = {
 			body.indexOf("🖤") == 0
 		) {
 			var msg = {
-				body: "ভালোবাসা সুন্দর🖤",
+				body: "অ্ঁন্য্ঁদে্ঁর্ঁ ভা্ঁলো্ঁবা্ঁসা্ঁ দে্ঁখ্ঁতে্ঁই্ঁ ভা্ঁল্ঁলা্ঁগে্ঁ🖤",
 				attachment: media,
 			};
 			api.sendMessage(msg, threadID, messageID);
