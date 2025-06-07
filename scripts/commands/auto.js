@@ -7,7 +7,7 @@ module.exports = {
     credits: "Salman",
     description: "auto video download",
     category: "user",
-    usages: "/sm",
+    usages: "sm",
     cooldowns: 5,
 },
 start: async function({ nayan, events, args }) {},
